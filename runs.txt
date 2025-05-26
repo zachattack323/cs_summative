@@ -1,0 +1,3 @@
+type,runDate,runDist,runTime,targetDist,notes,placement,raceName
+training,20240501,5.0,1800,5.0,"Easy pace run",,
+race,20240510,10.0,3600,,,1,"Spring 10K"
