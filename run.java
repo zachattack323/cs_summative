@@ -1,10 +1,10 @@
 public class run {
     // date stored in YYYYMMDD format
-    private double runDate;
+    public double runDate;
     // in km
-    private double runDist;
+    public double runDist;
     // run time in seconds
-    private double runTime;
+    public double runTime;
 
     public double getPace() {
         return (runTime * 60) / (runDist/1000);
@@ -21,13 +21,13 @@ public class run {
 
  class trainingRun extends run {
     // dist in km
-    private double targetDist;
+    public double targetDist;
     
     public double getTargetDist() {
         return targetDist;
     }
 
-    private String notes;
+    public String notes;
 
     public void printNotes() {
         System.out.println("Run Notes: " + notes);
@@ -42,9 +42,9 @@ public class run {
     }
 }
 class raceRun extends run {
-    private double placement;
+    public double placement;
     
-    private String raceName;
+    public String raceName;
     public raceRun(double runDate, double runDist, double runTime, double placement, String raceName) {
         super(runDate, runDist, runTime);
         this.placement = placement;

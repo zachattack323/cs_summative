@@ -1,2 +1,2 @@
-what is up
-how
+training, 20070403, 2.3, 1300, 20, ran fast
+race, 2025, 5.0, 1680, 4, Run for Run
