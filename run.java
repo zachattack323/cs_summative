@@ -37,6 +37,11 @@ public class run {
         this.targetDist = targetDist;
         this.notes = notes;
     }
+    public String getDetails(){
+                String dateString = dateConverter.convert(runDate);
+
+        return "Run Date: " + dateString + ", Distance: " + runDist + " km, Time: " + runTime + " seconds, Target Distance: " + targetDist + " km, Pace: " + getPace() + "km/s Notes: " + notes;
+    }
     public void printDetails() {
         System.out.println("Target Distance: " + targetDist + " km, Notes: " + notes);
     }
@@ -52,5 +57,9 @@ class raceRun extends run {
     }
     public void printDetails() {
         System.out.println("Race Name: " + raceName + ", Placement: " + placement);
+    }
+    public String getDetails() {
+        String dateString = dateConverter.convert(runDate);
+        return "Run Date: " + dateString + ", Distance: " + runDist + " km, Time: " + runTime + " seconds, Pace: " + getPace() + "km/s, Placement: " + placement;
     }
 }

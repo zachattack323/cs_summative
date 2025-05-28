@@ -1,2 +1,12 @@
+race, 20250424, 5.0, 1680, 4, Run for Run
 training, 20070403, 2.3, 1300, 20, ran fast
-race, 2025, 5.0, 1680, 4, Run for Run
+race, 20250305, 6.2, 1800, 5, City Sprint
+training, 20070315, 3.5, 1450, 15, tempo run
+training, 20070621, 4.0, 1600, 25, hill repeats
+race, 20241209, 10.0, 3600, 6, Spring Classic
+training, 20070812, 2.8, 1250, 10, recovery jog
+training, 20070509, 5.5, 2000, 30, long run
+race, 20251208, 8.0, 3100, 3, Victory Lap
+training, 20070930, 3.0, 1350, 18, intervals
+training, 20070427, 4.4, 1500, 22, threshold pace
+race, 20230929, 5.0, 1700, 4, Turkey Trot

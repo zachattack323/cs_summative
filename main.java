@@ -14,10 +14,12 @@ public class main {
         String data = myReader.nextLine();
         System.out.println(data + i);
         runCollection.addRunString(data);
-        
         i++;
       }
+      runCollection.sortTheIcons(0);
       runCollection.printRuns();
+              writeFinal.editFile(runCollection);
+
       myReader.close();
     } catch (FileNotFoundException e) {
       System.out.println("An error occurred.");

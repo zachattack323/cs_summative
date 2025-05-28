@@ -36,8 +36,21 @@ public class runCollections {
             
         }
     }
-    public void sortRunsByDistance(){
-        
+    public void sortTheIcons(int runInt){
+        int i = runInt;
+      if (i >= runs.size() - 1) return;        
+
+        for (int l = i; l < (runs.size() - i - 1); l++) {
+            if (runs.get(l).runDist > runs.get(l+1).runDist) {
+                run temp = runs.get(l);
+                runs.set(l, runs.get(l + 1));
+                runs.set(l+1, temp);
+            }
+        }
+        i++;
+        sortTheIcons(i);
+
+
     }
 
 }

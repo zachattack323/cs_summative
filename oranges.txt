@@ -1,0 +1,38 @@
+Training Run: 
+Run Date: April 03, 2007, Distance: 2.3 km, Time: 1300.0 seconds, Target Distance: 1300.0 km, Pace: 3.391304347826087E7km/s Notes: 20
+
+Training Run: 
+Run Date: March 15, 2007, Distance: 3.5 km, Time: 1450.0 seconds, Target Distance: 1450.0 km, Pace: 2.485714285714286E7km/s Notes: 15
+
+Training Run: 
+Run Date: June 21, 2007, Distance: 4.0 km, Time: 1600.0 seconds, Target Distance: 1600.0 km, Pace: 2.4E7km/s Notes: 25
+
+Training Run: 
+Run Date: August 12, 2007, Distance: 2.8 km, Time: 1250.0 seconds, Target Distance: 1250.0 km, Pace: 2.6785714285714287E7km/s Notes: 10
+
+Training Run: 
+Run Date: September 30, 2007, Distance: 3.0 km, Time: 1350.0 seconds, Target Distance: 1350.0 km, Pace: 2.7E7km/s Notes: 18
+
+Training Run: 
+Run Date: April 27, 2007, Distance: 4.4 km, Time: 1500.0 seconds, Target Distance: 1500.0 km, Pace: 2.0454545454545453E7km/s Notes: 22
+
+Race Run:
+Run Date: April 24, 2025, Distance: 5.0 km, Time: 1680.0 seconds, Pace: 2.016E7km/s, Placement: 1680.0
+
+Race Run:
+Run Date: September 29, 2023, Distance: 5.0 km, Time: 1700.0 seconds, Pace: 2.04E7km/s, Placement: 1700.0
+
+Training Run: 
+Run Date: May 09, 2007, Distance: 5.5 km, Time: 2000.0 seconds, Target Distance: 2000.0 km, Pace: 2.181818181818182E7km/s Notes: 30
+
+Race Run:
+Run Date: March 05, 2025, Distance: 6.2 km, Time: 1800.0 seconds, Pace: 1.741935483870968E7km/s, Placement: 1800.0
+
+Race Run:
+Run Date: December 08, 2025, Distance: 8.0 km, Time: 3100.0 seconds, Pace: 2.325E7km/s, Placement: 3100.0
+
+Race Run:
+Run Date: December 09, 2024, Distance: 10.0 km, Time: 3600.0 seconds, Pace: 2.16E7km/s, Placement: 3600.0
+
+Total Runs: 12
+Longest Run By Distance: 10.0 km
